@@ -14,3 +14,16 @@
   flex: 30px;
   border: 1px solid lightgrey;
 }
+
+h1 {
+  color: red;
+  font-weight: bolder;
+}
+
+body {
+  text-align: center;
+}
+
+button {
+  margin-top: 20px;
+}
